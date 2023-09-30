@@ -1,3 +1,3 @@
 # basicpractise.github.io
-reactPROJ
+basic HTML&CSS practise website
 ## welcome bro
